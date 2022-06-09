@@ -4,6 +4,10 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Description>Mathematics Library</Description>
+    <RepositoryUrl>https://github.com/stewartm83/Math.Lib</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/stewartm83/Math.Lib</PackageProjectUrl>
+    <PublishUrl>true</PublishUrl>
   </PropertyGroup>
 
 </Project>
